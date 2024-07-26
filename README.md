@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jithin Raj B</h1>
 
 
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">Junior Business Analyst @TInyZo Online </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithin-raj-dataanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="jithin-raj-dataanalyst" /> </p>
 
