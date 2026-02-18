@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jithin Raj B</h1>
 
 
-<h3 align="center">Junior Business Analyst @TInyZo Online </h3>
+<h3 align="center">Data Analyst @ Walkaroo International Pvt Ltd </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithin-raj-dataanalyst&label=Profile%20views&color=0e75b6&style=flat" alt="jithin-raj-dataanalyst" /> </p>
 
@@ -10,7 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Jithin-Raj](https://codebasics.io/portfolio/Jithin-Raj)
 
-- 💬 Ask me about **As an aspiring data analyst professional with a Master's degree in Civil Engineering from the National Institute of Technology Calicut, I specialize in transforming complex data into actionable insights using tools like Power BI, SQL, and Python. With experience in business intelligence and project work in various domains, I am passionate about driving informed business decisions and growth through data.**
+- 💬 Ask me about **Data Analyst passionate about transforming complex data into actionable insights that support business decisions and operational excellence. An alumnus of the College of Engineering Trivandrum and the National Institute of Technology Calicut, with a strong foundation in data analytics and problem-solving. Currently working as a Data Analyst in Sourcing and Inventory Management at Walkaroo, focusing on analyzing sourcing, procurement, and inventory data to enhance efficiency and strategic planning.
+**
 
 - 📫 How to reach me **jithinrb995@gmail.com**
 
