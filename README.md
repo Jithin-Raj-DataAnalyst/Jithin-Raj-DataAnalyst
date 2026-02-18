@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **jithinrb995@gmail.com**
 
-- 📄 Know about my experiences [https://jithinrajresume.tiiny.site](https://jithinrajresume.tiiny.site)
-
 - ⚡ Fun fact **My professional life has honed my patience and concentration, while I always seek to find fun and joy in every aspect of life.**
 
 <h3 align="left">Connect with me:</h3>
